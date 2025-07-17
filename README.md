@@ -1,0 +1,1 @@
+This project showcases a complete implementation of a Decision Tree Classifier using Scikit-Learn on the Iris dataset. It includes model training, visualization, performance evaluation, and feature importance analysis — perfect for classification-based tasks and internship deliverables.
